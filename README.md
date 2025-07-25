@@ -54,11 +54,15 @@ I'm a Third-year **Computer Science** student passionate about turning **ideas i
 ---
 
 ### 📊 GitHub Stats
+  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishna7805&show_icons=true&theme=tokyonight" alt="Krishna's GitHub Stats" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiimohanbarde&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiimohanbarde&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna7805&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 ---
 
