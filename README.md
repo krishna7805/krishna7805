@@ -176,6 +176,15 @@ I'm a web developer passionate about building **functional, user-centric web app
 
 ---
 
+## 🧑‍💻 GitHub Trophies
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=krishna7805&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+
+---
 <div align="center">
 
 ### 🤝 Let's Connect!
